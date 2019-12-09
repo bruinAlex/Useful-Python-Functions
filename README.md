@@ -1,1 +1,2 @@
-# useful_python_functions
+# Useful Python Snippets
+Code snippets that I find myself using repeatedly for many projects.
